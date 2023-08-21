@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-heading{
+    color: #ff4400e1;
+    text-align: center;
+}
+
+.parent{
+    width: 50vw;
+    height: 60vh;
+    border: 5px solid black;
+    margin: 0 auto;
+    margin-top: 2%;
+    display: flex;
+}
+
+.parent-child{
+    /* border: 3px solid red; */
+    height: 59vh;
+    width: 50vw;
+}
+
+.formik-image{
+    height: 60vh;
+    width: 100%;
+}
+
+.form-grandParent{
+    /* background-color: red; */
+    height: 60vh;
+}
+
+.form{
+
+    padding: 5%;
+
+}
+
+.form-input{
+   width: 20vw;
+   margin-left: 5%;
+   margin-top: 10%;
+}
