@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import FormikCRUD from './components/FormikCRUD.js/FormikCRUD';
 
